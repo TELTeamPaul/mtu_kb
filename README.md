@@ -2,4 +2,4 @@
 Repository of assets for the MTU Knowledge Bases on Teamwork
 
 Link to MTU Logo
-![](images/mtufooterlogo.png)
+![](mtufooterlogo.png)
